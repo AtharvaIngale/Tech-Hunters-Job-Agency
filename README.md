@@ -22,7 +22,7 @@ https://atharvaingale.github.io/Tech-Hunters-Job-Agency/
 Install my-project with git bash
 
 ```bash
-  git clone my-project
+  git clone my-project-link
 ```
     
 ## Deployment
