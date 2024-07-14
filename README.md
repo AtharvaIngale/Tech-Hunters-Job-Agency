@@ -1,7 +1,9 @@
 
 # Tech Hunter,s Job Agency
 
+This is a static website for job seekers and recruiters.<br>
 The tech stack used is HTML, CSS, JavaScript, Jquery and Bootstrap.
+
 ## Features
 
 - Live previews
