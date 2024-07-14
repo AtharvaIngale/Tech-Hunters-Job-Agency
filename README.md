@@ -12,6 +12,7 @@ The tech stack used is HTML, CSS, JavaScript, Jquery and Bootstrap.
 
 ## Demo
 
+Paste the link bellow in your browser
 ```bash
 https://atharvaingale.github.io/Tech-Hunters-Job-Agency/
 ```
@@ -50,7 +51,7 @@ To deploy this project run index.html file OR copy the path of index.html file a
 
 ## Authors
 
-- [@AtharvaIngale](https://www.github.com/AtharvaIngale)
+- [AtharvaIngale](https://www.github.com/AtharvaIngale)
 - Rutik Pimpale
 - Laksh Bhambre
 - Rakhmaji Nagapure
