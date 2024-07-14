@@ -35,7 +35,7 @@ To deploy this project run index.html file OR copy the path of index.html file a
 ## Screenshots
 
 ##### Home Page
-![Home Page](https://github.com/user-attachments/assets/25ff4445-6d08-4ec2-aedf-bdde1a2f51a3)
+<img src="![Home Page](https://github.com/user-attachments/assets/25ff4445-6d08-4ec2-aedf-bdde1a2f51a3)" height=1000px width=100% />
 
 ##### Jobs Page
 ![Jobs Page](https://github.com/user-attachments/assets/ed047408-c881-4d83-9405-6b52337acf1c)
